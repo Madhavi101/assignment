@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dws.challenge.ChallengeApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-18T12:28:25" hostname="subhash-Vostro-3500" time="0.001">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.dws.challenge.ChallengeApplicationTests" time="0.001"/>
+  <system-out><![CDATA[2024-11-18T17:58:25.135+05:30  INFO 26686 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.dws.challenge.ChallengeApplicationTests]: ChallengeApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-11-18T17:58:25.136+05:30  INFO 26686 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.dws.challenge.ChallengeApplication for test class com.dws.challenge.ChallengeApplicationTests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dws.challenge.AccountsServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-18T12:28:25" hostname="subhash-Vostro-3500" time="0.004">
+  <properties/>
+  <testcase name="addAccount()" classname="com.dws.challenge.AccountsServiceTest" time="0.002"/>
+  <testcase name="addAccount_failsOnDuplicateId()" classname="com.dws.challenge.AccountsServiceTest" time="0.001"/>
+  <system-out><![CDATA[2024-11-18T17:58:24.954+05:30  INFO 26686 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.dws.challenge.AccountsServiceTest]: AccountsServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-11-18T17:58:24.955+05:30  INFO 26686 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.dws.challenge.ChallengeApplication for test class com.dws.challenge.AccountsServiceTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.5)
+
+2024-11-18T17:58:24.975+05:30  INFO 26686 --- [    Test worker] com.dws.challenge.AccountsServiceTest    : Starting AccountsServiceTest using Java 17.0.11 with PID 26686 (started by subhash in /home/subhash/Desktop/src (2)/src)
+2024-11-18T17:58:24.975+05:30  INFO 26686 --- [    Test worker] com.dws.challenge.AccountsServiceTest    : No active profile set, falling back to 1 default profile: "default"
+2024-11-18T17:58:25.129+05:30  INFO 26686 --- [    Test worker] com.dws.challenge.AccountsServiceTest    : Started AccountsServiceTest in 0.169 seconds (process running for 2.651)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
